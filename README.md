@@ -1,4 +1,6 @@
-# Playbook Viewer
+# Actor profile viewer
+
+# Inspired by Palo Alto and will try to add similar information for threat actors that we track
 
 Over the past few years, we’ve been tossing around the idea of an “Adversary Playbook.” The idea is rather straightforward: just as we create offensive and defensive playbooks for sports, our adversaries also have offensive playbooks that they execute to compromise organizations. They may not write them down, but they exist. Through observation and data sharing, defenders can create their own version of the Adversary's playbook, and then use that playbook to better defend their network with defensive playbooks. 
 
